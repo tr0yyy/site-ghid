@@ -19,7 +19,7 @@ Acestea sunt urmate de regulamentele specifice facultății noastre (se pot găs
 
 - [Criteriile de promovare în anul III](http://old.fmi.unibuc.ro/ro/pdf/2017/secretariat/Anunt-promovare_din_anul_II_in_III_toate_programele_de_licenta_IF.pdf)
 
-  Promovarea din anul II in anul III se face cu un numar limita de restante acceptate.
+  Promovarea din anul II în anul III se face cu un număr limită de restanțe acceptate.
 
 - [Regulament de practică al FMI](http://old.fmi.unibuc.ro/ro/pdf/2017/practica/FMI_Regulament_practica_studenti.pdf)
 
