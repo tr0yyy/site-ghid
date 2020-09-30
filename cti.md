@@ -5,11 +5,11 @@ title: Calculatoare și Tehnologia Informației
 
 # CTI
 
-Domeniul de licență la secția CTI durează 4 ani, față de cei 3 ani de la Informatică și sectile de la Matematică, cu excepția Matematicii-Informaticii. Primul semestru reia notiunile elementare de informatica si fizica care pun bazele unei cariere ingineresti. Printre noutatile acestui semestru se regasesc materii precum algebra liniara , analiza matematica si proiectare logica unde se studiaza notiuni introductive pentru cursul de Electronica Digitala din anul 2 .
+Domeniul de licență la secția CTI durează 4 ani, față de cei 3 ani de la Informatică și secțiile de la Matematică. Primul semestru reia noțiunile elementare de informatică si fizică care pun bazele unei cariere inginerești. Printre noutățile acestui semestru, se regăsesc materii precum Algebra Liniară , Analiza Matematică și Proiectare Logică unde se studiază noțiuni introductive pentru cursul de Electronică Digitală din anul 2.
 
-Iata cum a aratat o saptamana tipica la sectia CTI, in al doilea semestru, pentru un boboc indeajuns de norocos sa prinda un orar decent.
+Iată cum a arătat o săptămână tipică la secția CTI, în al doilea semestru, pentru un boboc îndeajuns de norocos să prindă un orar decent.
 
-Sa incepem saptamana intr-un mod lejer: un curs de AutoCAD, în care ești învățat să creezi modele digitale după bunul plac, și un seminar de Tehnici de programare, acesta din urmă fiind o dată la două săptămâni.
+Să începem săptămâna într-un mod lejer: un curs de AutoCAD, în care ești învățat să creezi modele digitale după bunul plac, și un seminar de Tehnici de programare, acesta din urmă fiind o dată la două săptămâni.
 
 Cea mai obositoare zi a săptămânii, marți, se desfășoară în felul următor: 2 ore de curs de Calcul Numeric, unde rabdarea doamnei profesoare ușurează înțelegerea materiei, 4 ore de matematică și, în final, 2 ore de programare. Pauzele de 10 minute dintre ore permit fie deplasarea dintr-o sala într-alta, fie fuga până la magazinele alimentare, plasate convenabil. Partea bună este că, spre deosebire de liceu, o zi cu un număr așa crescut de ore este o raritate.
 
